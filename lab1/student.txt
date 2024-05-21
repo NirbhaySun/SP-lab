@@ -1,0 +1,4 @@
+name ="nirbhay"
+roll = 2116312
+address ="imadol"
+marks=80
